@@ -21,4 +21,4 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 1. Open Roblox and join a game.
 2. Copy the script below and paste it into your exploit tool (like Synapse Z, KRNL, or Script Ware):
    ```lua
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/Zincly/Zexon-Hub/refs/heads/main/cyclone-fling'))()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/zexon-hub/Zexon/refs/heads/main/main'))()
