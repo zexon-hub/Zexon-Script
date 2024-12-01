@@ -1,7 +1,7 @@
 # Zexon Script Hub for Roblox
 
 ## Overview
-Zexon is a script hub that makes playing Roblox more fun and exciting. It includes simple and powerful tools you can use in many Roblox games. With Zexon, you can control cool features like Cyclone effects and Blackholes with an easy-to-use menu.
+Zexon is a script hub that makes playing Roblox more fun and exciting. It includes simple and powerful tools you can use in many Roblox games. With Zexon, you can control cool features like Cyclone effects and Blackholes with an easy-to-use menu. We consider this more powerful than any other "Black Hole" scripts.
 
 ---
 
