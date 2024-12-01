@@ -19,6 +19,6 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 ---
 ## How to Use
 1. Open Roblox and join a game.
-2. Copy the script below and paste it into your exploit tool (like Synapse Z, KRNL, or Script Ware):
+2. Copy the script below and paste it into your exploit tool (like Synapse Z, Wave, or Solara):
    ```lua
    loadstring(game:HttpGet('https://raw.githubusercontent.com/zexon-hub/Zexon/refs/heads/main/main'))()
