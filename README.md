@@ -6,15 +6,17 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 ---
 
 ## Features
-- **Set Range**: Change the size of the Blackhole effect with a slider (1 to 100).
-- **Set Speed**: Adjust how fast the Cyclone spins (5 to 100).
-- **Set Points**: Choose how many orbit points the Cyclone effect has (1 to 10).
-- **On/Off Toggle**: Turn the Cyclone effect on or off with a simple switch.
-- **User Friendly Menu**: Easy to use menu with buttons and sliders.
 
+- **Set Range: Adjust Cyclone radius with a slider (1 to 125).
+- **Set Speed: Modify Cyclone orbit speed (1 to 50).
+- **Set Points: Choose the number of Cyclone nodes (1 to 10).
+- **X, Y, Z Offset Sliders: Cyclone position adjustment to the player.
+- **Node Response & Torque: Adjust how Cyclone nodes react and apply force.
+- **Crazy Mode Toggle: Chaotic Cyclone effects.
 ---
 ## Showcase:
-<img src="https://media.discordapp.net/attachments/1311926973639032884/1312600908143788102/Screenshot_2024-11-30_at_9.07.08_PM.png?ex=674d165b&is=674bc4db&hm=f526dbdd0546176f3a4614bfe61712dc8e833e8bf764e647cbc57bd91131a99d&=&format=webp&quality=lossless&width=1421&height=1081" alt="Zexon Preview" width="500">
+** A showcase made by my friend lol.
+<iframe width="500" height="281" src="https://www.youtube.com/embed/f5dkobZ7d0s" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## How to Use
