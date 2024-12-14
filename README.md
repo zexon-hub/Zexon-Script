@@ -7,15 +7,16 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 
 ## Features
 
-- **Set Range: Adjust Cyclone radius with a slider (1 to 125).
-- **Set Speed: Modify Cyclone orbit speed (1 to 50).
-- **Set Points: Choose the number of Cyclone nodes (1 to 10).
-- **X, Y, Z Offset Sliders: Cyclone position adjustment to the player.
-- **Node Response & Torque: Adjust how Cyclone nodes react and apply force.
-- **Crazy Mode Toggle: Chaotic Cyclone effects.
+- Set Range: Adjust Cyclone radius with a slider (1 to 125).
+- Set Speed: Modify Cyclone orbit speed (1 to 50).
+- Set Points: Choose the number of Cyclone nodes (1 to 10).
+- X, Y, Z Offset Sliders: Cyclone position adjustment to the player.
+- Node Response & Torque: Adjust how Cyclone nodes react and apply force.
+- Crazy Mode Toggle: Chaotic Cyclone effects.
 ---
 ## Showcase:
-** A showcase made by my friend lol.
+A showcase made by my friend lol.
+
 [![Showcase Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=f5dkobZ7d0s)
 
 ---
