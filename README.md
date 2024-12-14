@@ -16,7 +16,7 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 ---
 ## Showcase:
 ** A showcase made by my friend lol.
-<iframe width="500" height="281" src="https://www.youtube.com/embed/f5dkobZ7d0s" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/watch?v=f5dkobZ7d0s" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## How to Use
