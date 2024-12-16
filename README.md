@@ -24,6 +24,10 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 ---
 ## Showcase:
 This is the showcase of Zexon Script.
-[![Showcase Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=Dv0zndghC5g)
+
+[![Showcase Video](https://img.youtube.com/vi/Dv0zndghC5g/0.jpg)](https://www.youtube.com/watch?v=Dv0zndghC5g)
+
+
 A review made by my friend lol
+
 [![Review Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=f5dkobZ7d0s)
