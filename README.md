@@ -13,11 +13,6 @@ Zexon is a script hub that makes playing Roblox more fun and exciting. It includ
 - X, Y, Z Offset Sliders: Cyclone position adjustment to the player.
 - Node Response & Torque: Adjust how Cyclone nodes react and apply force.
 - Crazy Mode Toggle: Chaotic Cyclone effects.
----
-## Showcase:
-A showcase made by my friend lol.
-
-[![Showcase Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=f5dkobZ7d0s)
 
 ---
 ## How to Use
@@ -25,3 +20,10 @@ A showcase made by my friend lol.
 2. Copy the script below and paste it into your exploit tool (like Synapse Z, Wave, or Solara):
    ```lua
    loadstring(game:HttpGet('https://raw.githubusercontent.com/zexon-hub/Zexon/refs/heads/main/main'))()
+
+---
+## Showcase:
+This is the showcase of Zexon Script.
+[![Showcase Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=Dv0zndghC5g)
+A review made by my friend lol
+[![Review Video](https://img.youtube.com/vi/f5dkobZ7d0s/0.jpg)](https://www.youtube.com/watch?v=f5dkobZ7d0s)
