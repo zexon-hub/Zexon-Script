@@ -1,5 +1,8 @@
 # Zexon Script Hub for Roblox (DISCONTINUED)
 
+# Discontinue Note:
+Zexon Script discontinued truly now. The only updates will be loadstring fixes to keep it useable.
+
 ## Overview
 Zexon is a script hub that makes playing Roblox more fun and exciting. It includes simple and powerful script you can use in many Roblox games. With Zexon, you can control cool features like Cyclone with an easy menu. We consider this more powerful than any other "Black Hole" scripts. Zexon does use a UI Library that is open source. We don't claim our UI as ours. However, it has been modified to look more appealing.
 
